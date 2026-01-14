@@ -15,7 +15,7 @@ setup(
 
             # Specify which files are included with the distribution
             'include_patterns': [
-                'dog.bam'
+                './assets/dog.bam'
             ],
 
             # Include the OpenGL renderer and OpenAL audio plug-in
